@@ -1,4 +1,4 @@
-# ableau-wdc-tutorial-part-1
+# tableau-wdc-tutorial-part-1
 
 # Starting my journey in coding and using github.
 # Borne out of necessity from my work.
